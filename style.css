@@ -1,0 +1,41 @@
+a {
+  text-decoration: None;
+}
+
+a:hover {
+  color: #000066;
+  text-decoration: underline;
+}
+
+body {
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+h1 {
+  padding: 0.2em;
+  font-family: 'Arial';
+  font-size: 3em;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 1.7em;
+  font-family: 'Crimson Text';
+}
+
+p img {
+  border-radius: 4em;
+  float: left;
+  margin-right: 1em;
+}
+
+#my-header {
+  background-color: #282828;
+  color: #FFFFFF;
+}
