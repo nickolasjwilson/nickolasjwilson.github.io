@@ -35,6 +35,23 @@ p img {
   margin-right: 1em;
 }
 
+div.buttons {
+  position: relative;
+  vertical-align: middle;
+}
+
+div.buttons img {
+  margin-bottom: 0.3em;
+  margin-top: 0.7em;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+#linkedin {
+  transform: translate(110px, -50%);
+}
+
 #my-header {
   background-color: #282828;
   color: #FFFFFF;
