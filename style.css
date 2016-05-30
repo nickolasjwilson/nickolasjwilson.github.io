@@ -24,6 +24,12 @@ iframe {
   margin-right: auto;
 }
 
+nav {
+  background-color: #505050;
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
 p {
   font-size: 1.7em;
   font-family: 'Crimson Text';
@@ -33,6 +39,10 @@ p img {
   border-radius: 4em;
   float: left;
   margin-right: 1em;
+}
+
+table {
+  border-spacing: 0.85em 0.25em;
 }
 
 div.buttons {
