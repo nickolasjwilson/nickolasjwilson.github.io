@@ -53,6 +53,11 @@ table {
   border-spacing: 0.85em 0.25em;
 }
 
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
 div.buttons {
   position: relative;
   vertical-align: middle;
