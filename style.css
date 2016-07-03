@@ -71,6 +71,20 @@ div.buttons img {
   transform: translate(0, -50%);
 }
 
+i.icon-m {
+  background-image: url(https://edge.mormoncdn.org/bc/content/assets/img/lib/socialIcons/social.png);
+  background-position: -95px -112px;
+  background-repeat: no-repeat;
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+}
+
+table.icons img {
+  max-height: 32px;
+  max-width: 32px;
+}
+
 #linkedin {
   transform: translate(110px, -50%);
 }
