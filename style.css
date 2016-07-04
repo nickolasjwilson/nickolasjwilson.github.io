@@ -16,13 +16,14 @@ body {
   margin-left: 0em;
   margin-right: 0em;
   margin-top: 0em;
+  text-align: center;
 }
 
 h1 {
   margin: 0em;
   padding: 0.2em;
   font-family: 'Arial';
-  font-size: 3em;
+  font-size: 2.5em;
 }
 
 iframe {
@@ -47,18 +48,13 @@ nav a:hover {
 }
 
 p {
-  font-size: 1.7em;
+  font-size: 1.5em;
   font-family: 'Crimson Text';
-}
-
-p img {
-  border-radius: 4em;
-  float: left;
-  margin-right: 1em;
 }
 
 table {
   border-spacing: 0.85em 0.25em;
+  margin: auto;
 }
 
 ul {
@@ -75,6 +71,10 @@ i.icon-m {
   display: inline-block;
 }
 
+table.icons {
+  text-align: left;
+}
+
 table.icons img {
   max-height: 32px;
   max-width: 32px;
@@ -87,4 +87,10 @@ table.icons img {
 #my-header {
   background-color: #282828;
   color: #FFFFFF;
+}
+
+#portrait {
+  border-radius: 7em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
