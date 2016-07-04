@@ -26,12 +26,6 @@ h1 {
   font-size: 2.5em;
 }
 
-iframe {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 nav {
   background-color: #505050;
   color: #FFFFFF;
@@ -57,11 +51,6 @@ table {
   margin: auto;
 }
 
-ul {
-  list-style: none;
-  padding-left: 0;
-}
-
 i.icon-m {
   background-image: url(https://edge.mormoncdn.org/bc/content/assets/img/lib/socialIcons/social.png);
   background-position: -95px -112px;
@@ -78,10 +67,6 @@ table.icons {
 table.icons img {
   max-height: 32px;
   max-width: 32px;
-}
-
-#linkedin {
-  transform: translate(110px, -50%);
 }
 
 #my-header {
